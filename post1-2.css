@@ -1,0 +1,58 @@
+.sd-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/-1-0.jpeg"); background-position: 50% 50%; margin-top: 0; margin-bottom: 0}
+.sd-section-1 .sd-sheet-1 {min-height: 589px}
+.sd-section-1 .sd-group-1 {width: 893px; min-height: 367px; margin: 69px auto 60px}
+.sd-section-1 .sd-container-layout-1 {padding: 30px}
+.sd-section-1 .sd-text-1 {font-size: 3rem; margin: 0}
+.sd-section-1 .sd-text-2 {font-size: 1.5rem; margin: 30px 0 0} 
+
+@media (max-width: 1199px){ .sd-section-1 .sd-sheet-1 {min-height: 486px}
+.sd-section-1 .sd-group-1 {height: auto} }
+
+@media (max-width: 991px){ .sd-section-1 .sd-sheet-1 {min-height: 372px}
+.sd-section-1 .sd-group-1 {width: 720px} }
+
+@media (max-width: 767px){ .sd-section-1 .sd-sheet-1 {min-height: 279px}
+.sd-section-1 .sd-group-1 {width: 540px}
+.sd-section-1 .sd-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .sd-section-1 .sd-sheet-1 {min-height: 287px}
+.sd-section-1 .sd-group-1 {width: 340px} }.sd-section-2 {margin-top: 0; margin-bottom: 0}
+.sd-section-2 .sd-sheet-1 {min-height: 809px}
+.sd-section-2 .sd-group-1 {width: 1132px; min-height: 626px; margin: 0 auto 0 0}
+.sd-section-2 .sd-container-layout-1 {padding: 30px 60px}
+.sd-section-2 .sd-text-1 {margin: 0 9px 0 -9px}
+.sd-section-2 .sd-layout-wrap-1 {margin: -521px auto 60px 0}
+.sd-section-2 .sd-layout-cell-1 {min-height: 643px}
+.sd-section-2 .sd-container-layout-2 {padding: 30px}
+.sd-section-2 .sd-image-1 {height: 340px; margin: 0 auto 0 0}
+.sd-section-2 .sd-layout-cell-2 {min-height: 400px}
+.sd-section-2 .sd-container-layout-3 {padding: 30px 30px 30px 0} 
+
+@media (max-width: 1199px){ .sd-section-2 .sd-sheet-1 {min-height: 250px}
+.sd-section-2 .sd-group-1 {width: 940px; height: auto}
+.sd-section-2 .sd-text-1 {margin-left: 0; margin-right: 0}
+.sd-section-2 .sd-layout-wrap-1 {position: relative; margin-right: initial; margin-left: initial}
+.sd-section-2 .sd-layout-cell-1 {min-height: 530px}
+.sd-section-2 .sd-image-1 {height: 273px; margin-right: initial; margin-left: initial}
+.sd-section-2 .sd-layout-cell-2 {min-height: 330px} }
+
+@media (max-width: 991px){ .sd-section-2 .sd-sheet-1 {min-height: 173px}
+.sd-section-2 .sd-group-1 {width: 720px}
+.sd-section-2 .sd-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.sd-section-2 .sd-layout-cell-1 {min-height: 100px}
+.sd-section-2 .sd-image-1 {height: 200px; margin-right: initial; margin-left: initial}
+.sd-section-2 .sd-layout-cell-2 {min-height: 253px} }
+
+@media (max-width: 767px){ .sd-section-2 .sd-sheet-1 {min-height: 680px}
+.sd-section-2 .sd-group-1 {width: 540px}
+.sd-section-2 .sd-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.sd-section-2 .sd-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.sd-section-2 .sd-image-1 {height: 347px; margin-right: initial; margin-left: initial}
+.sd-section-2 .sd-layout-cell-2 {min-height: 380px}
+.sd-section-2 .sd-container-layout-3 {padding-right: 10px} }
+
+@media (max-width: 575px){ .sd-section-2 .sd-sheet-1 {min-height: 398px}
+.sd-section-2 .sd-group-1 {width: 340px}
+.sd-section-2 .sd-text-1 {margin-top: -92px}
+.sd-section-2 .sd-image-1 {height: 214px; margin-right: initial; margin-left: initial}
+.sd-section-2 .sd-layout-cell-2 {min-height: 239px} }

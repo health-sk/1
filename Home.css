@@ -1,0 +1,89 @@
+.sd-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/e-news_title-458.jpg"); background-position: 50% 50%}
+.sd-section-1 .sd-sheet-1 {min-height: 576px}
+.sd-section-1 .sd-group-1 {width: 893px; min-height: 367px; margin: 52px auto 60px}
+.sd-section-1 .sd-container-layout-1 {padding: 30px 60px}
+.sd-section-1 .sd-text-1 {font-size: 3rem; margin: 69px 0 0}
+.sd-section-1 .sd-text-2 {font-size: 1.5rem; margin: 32px 0 0} 
+
+@media (max-width: 1199px){ .sd-section-1 .sd-sheet-1 {min-height: 475px}
+.sd-section-1 .sd-group-1 {min-height: 430px; height: auto} }
+
+@media (max-width: 991px){ .sd-section-1 .sd-sheet-1 {min-height: 364px}
+.sd-section-1 .sd-group-1 {width: 720px; min-height: 329px}
+.sd-section-1 .sd-container-layout-1 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .sd-section-1 .sd-sheet-1 {min-height: 273px}
+.sd-section-1 .sd-group-1 {width: 540px; min-height: 247px}
+.sd-section-1 .sd-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .sd-section-1 .sd-sheet-1 {min-height: 172px}
+.sd-section-1 .sd-group-1 {width: 340px; min-height: 156px} }.sd-section-2 .sd-sheet-1 {min-height: 577px}
+.sd-section-2 .sd-layout-wrap-1 {margin: 120px 0 50px}
+.sd-section-2 .sd-layout-cell-1 {min-height: 417px}
+.sd-section-2 .sd-container-layout-1 {padding: 20px 60px}
+.sd-section-2 .sd-text-1 {margin: 0}
+.sd-section-2 .sd-text-2 {margin: 20px 0 0}
+.sd-section-2 .sd-image-1 {min-height: 387px; background-image: url("images/ho-maziva.jpg"); background-position: 50% 50%}
+.sd-section-2 .sd-container-layout-2 {padding: 0}
+.sd-section-2 .sd-shape-1 {margin: 0 0 0 258px} 
+
+@media (max-width: 1199px){ .sd-section-2 .sd-sheet-1 {min-height: 329px}
+.sd-section-2 .sd-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.sd-section-2 .sd-layout-cell-1 {min-height: 344px}
+.sd-section-2 .sd-image-1 {min-height: 319px}
+.sd-section-2 .sd-shape-1 {margin-top: initial; margin-bottom: initial} }
+
+@media (max-width: 991px){ .sd-section-2 .sd-sheet-1 {min-height: 229px}
+.sd-section-2 .sd-layout-cell-1 {min-height: 100px}
+.sd-section-2 .sd-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.sd-section-2 .sd-image-1 {min-height: 244px} }
+
+@media (max-width: 767px){ .sd-section-2 .sd-sheet-1 {min-height: 451px}
+.sd-section-2 .sd-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.sd-section-2 .sd-image-1 {min-height: 366px} }
+
+@media (max-width: 575px){ .sd-section-2 .sd-sheet-1 {min-height: 315px}
+.sd-section-2 .sd-image-1 {min-height: 230px} }.sd-section-3 .sd-sheet-1 {min-height: 744px; margin: 0 80px}
+.sd-section-3 .sd-layout-wrap-1 {width: 922px; margin: 72px auto 60px 0}
+.sd-section-3 .sd-image-1 {min-height: 562px; background-image: url("images/-1-0.jpeg"); background-position: 50% 50%}
+.sd-section-3 .sd-container-layout-1 {padding: 20px}
+.sd-section-3 .sd-image-2 {width: 422px; height: 225px; margin: 7px auto 0 44px}
+.sd-section-3 .sd-layout-cell-2 {min-height: 562px}
+.sd-section-3 .sd-container-layout-2 {padding-left: 30px; padding-right: 30px}
+.sd-section-3 .sd-text-1 {margin: 0}
+.sd-section-3 .sd-text-2 {margin: 19px 0 0} 
+
+@media (max-width: 1199px){ .sd-section-3 .sd-sheet-1 {min-height: 669px; margin-left: 0; margin-right: 0}
+.sd-section-3 .sd-layout-wrap-1 {width: 751px; margin-top: 2px; margin-right: 189px}
+.sd-section-3 .sd-image-2 {margin-left: 3px}
+.sd-section-3 .sd-container-layout-2 {padding-left: 25px; padding-right: 25px} }
+
+@media (max-width: 991px){ .sd-section-3 .sd-sheet-1 {min-height: 569px}
+.sd-section-3 .sd-layout-wrap-1 {width: 575px; margin-right: 145px}
+.sd-section-3 .sd-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.sd-section-3 .sd-image-2 {width: 295px; height: 157px; margin-left: 0}
+.sd-section-3 .sd-container-layout-2 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .sd-section-3 .sd-layout-wrap-1 {width: 539px; margin-top: 239px; margin-right: 0; margin-bottom: 26px}
+.sd-section-3 .sd-image-1 {min-height: 318px}
+.sd-section-3 .sd-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.sd-section-3 .sd-layout-cell-2 {min-height: 318px}
+.sd-section-3 .sd-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .sd-section-3 .sd-layout-wrap-1 {width: 340px; margin: 20px auto 0 30px}
+.sd-section-3 .sd-image-1 {min-height: 562px}
+.sd-section-3 .sd-image-2 {width: 290px; height: 154px}
+.sd-section-3 .sd-layout-cell-2 {min-height: 562px} }.sd-section-4 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/shutterstock_582896116.jpg"); background-position: 50% 50%}
+.sd-section-4 .sd-sheet-1 {min-height: 473px}
+.sd-section-4 .sd-text-1 {font-size: 3rem; margin: 13px 0 0}
+.sd-section-4 .sd-image-1 {width: 570px; height: 380px; margin: 40px 42px 60px auto} 
+
+@media (max-width: 1199px){ .sd-section-4 .sd-sheet-1 {min-height: 390px} }
+
+@media (max-width: 991px){ .sd-section-4 .sd-sheet-1 {min-height: 299px} }
+
+@media (max-width: 767px){ .sd-section-4 .sd-sheet-1 {min-height: 204px}
+.sd-section-4 .sd-image-1 {width: 540px; height: 360px; margin-right: 0} }
+
+@media (max-width: 575px){ .sd-section-4 .sd-sheet-1 {min-height: 71px}
+.sd-section-4 .sd-image-1 {width: 340px; height: 227px} }

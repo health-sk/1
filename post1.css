@@ -1,0 +1,34 @@
+.sd-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/ho-maziva.jpg"); background-position: 50% 50%}
+.sd-section-1 .sd-sheet-1 {min-height: 576px}
+.sd-section-1 .sd-group-1 {width: 893px; min-height: 367px; margin: 64px auto 60px}
+.sd-section-1 .sd-container-layout-1 {padding: 30px}
+.sd-section-1 .sd-text-1 {font-size: 3rem; margin: 0}
+.sd-section-1 .sd-text-2 {font-size: 1.5rem; margin: 30px 0 0} 
+
+@media (max-width: 1199px){ .sd-section-1 .sd-sheet-1 {min-height: 475px}
+.sd-section-1 .sd-group-1 {min-height: 430px; height: auto} }
+
+@media (max-width: 991px){ .sd-section-1 .sd-sheet-1 {min-height: 364px}
+.sd-section-1 .sd-group-1 {width: 720px; min-height: 329px} }
+
+@media (max-width: 767px){ .sd-section-1 .sd-sheet-1 {min-height: 273px}
+.sd-section-1 .sd-group-1 {width: 540px; min-height: 247px}
+.sd-section-1 .sd-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .sd-section-1 .sd-sheet-1 {min-height: 287px}
+.sd-section-1 .sd-group-1 {width: 340px; min-height: 156px} }.sd-section-2 .sd-sheet-1 {min-height: 320px}
+.sd-section-2 .sd-group-1 {width: 1132px; min-height: 200px; margin: 0 auto 60px 0}
+.sd-section-2 .sd-container-layout-1 {padding: 30px 60px}
+.sd-section-2 .sd-text-1 {margin: 0 9px 0 -9px}
+.sd-section-2 .sd-text-2 {margin: 18px 0 0} 
+
+@media (max-width: 1199px){ .sd-section-2 .sd-group-1 {width: 940px; height: auto}
+.sd-section-2 .sd-text-1 {margin-left: 0; margin-right: 0} }
+
+@media (max-width: 991px){ .sd-section-2 .sd-group-1 {width: 720px}
+.sd-section-2 .sd-container-layout-1 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .sd-section-2 .sd-group-1 {width: 540px}
+.sd-section-2 .sd-container-layout-1 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .sd-section-2 .sd-group-1 {width: 340px} }
